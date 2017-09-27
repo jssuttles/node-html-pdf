@@ -23,7 +23,7 @@
     "tape": "^3.4.0"
   },
   "optionalDependencies": {
-    "phantomjs-prebuilt": "git+https://github.com/JoeyLi-1/phantomjs-1.git"
+    "phantomjs-prebuilt": "git+https://github.com/jssuttles/phantomjs-1.git"
   },
   "repository": {
     "type": "git",
